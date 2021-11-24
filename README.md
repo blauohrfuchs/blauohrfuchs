@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 👋🏻
+
+I’m Jona, a business informatics dual student.
+
+I’m currently learning Python and C#.
 
 <!--
 **blauohrfuchs/blauohrfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

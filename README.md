@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I’m Jona, a business informatics dual student.
+I’m Jona, a 19y/o dual student of  business informatics.
 
 <!--
 **blauohrfuchs/blauohrfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

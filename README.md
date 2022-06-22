@@ -2,6 +2,8 @@
 
 I am a 19y/o dual student of business informatics. Interested in data science, project management and software development.
 
+⌨️ Currently working with python/pandas to create new insights for business
+
 <!--
 **blauohrfuchs/blauohrfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

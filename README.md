@@ -1,8 +1,10 @@
 # Hi, I am Jona! 👋
 
-I am a 19y/o dual student of business informatics. Interested in data science, project management and software development.
+I'm a 19y/o dual student of business informatics working in the telco business. In my free time I love to watch anime, travel and do archery.
 
-⌨️ Currently working with python/pandas to create new insights for business
+🔎 Interested in data science, project management and software development
+
+🐍 Currently working with python & pandas to create new insights for business
 
 <!--
 **blauohrfuchs/blauohrfuchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
